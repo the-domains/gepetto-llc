@@ -4,7 +4,7 @@
         <description><![CDATA[Gepetto, LLC]]></description>
         <link>http://gepet.to/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 22:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 22:07:18 GMT</lastBuildDate>
         <atom:link href="http://gepet.to/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://gepet.to/infrastructure-automation-and-orchestration-your-terms-our/index.html</link>
             <guid isPermaLink="false">b7d5f429-e9e3-4061-9906-14d09d912e7f</guid>
             <pubDate>Wed, 27 Jul 2016 22:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df575e50-ad01-4563-960f-585862e202cb.png">]]></description>
-            <link>http://gepet.to/12f2b31e-038c-4b67-9c0c-3e9439718456/index.html</link>
-            <guid isPermaLink="false">12f2b31e-038c-4b67-9c0c-3e9439718456</guid>
-            <pubDate>Wed, 27 Jul 2016 22:04:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
