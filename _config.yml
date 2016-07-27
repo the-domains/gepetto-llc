@@ -1,5 +1,30 @@
-title: 'Gepetto, LLC'
-purpose: []
+typography_spectrum: 0
+color:
+  saturation: 0.2121374
+  brandStrength: 0.4129968
+  lightness: 0.5601504
+  brandColors:
+    - '#00000d'
+    - '#861b1b'
+    - '#797263'
+    - '#125441'
+    - '#5c423b'
+  rhythmicContrast: 0.4838883
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5053706
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: 'Gepetto, LLC'
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.2121374
-  brandStrength: 0.4129968
-  lightness: 0.5601504
-  brandColors:
-    - '#00000d'
-    - '#861b1b'
-    - '#797263'
-    - '#125441'
-    - '#5c423b'
-  rhythmicContrast: 0.4838883
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: 'Gepetto, LLC'
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 0.5053706
+title: 'Gepetto, LLC'
+description: 'Your Terms, Our Team'
+purpose: []
