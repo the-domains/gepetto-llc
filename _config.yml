@@ -1,29 +1,41 @@
-name: 'Gepetto, LLC'
-favicon: null
-layout_spectrum: 0.76447
-typography_spectrum: 0
 title: 'Gepetto, LLC'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8286788
+  brandStrength: 0.4129968
+  lightness: 0.625
   brandColors:
     - '#00000d'
     - '#861b1b'
     - '#797263'
     - '#125441'
     - '#5c423b'
-  brandStrength: 1
-  lightness: 0.625
-  saturation: 0.5638624522835016
-  rhythmicContrast: 1
-purpose: []
+  rhythmicContrast: 0.3743287
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 'Gepetto, LLC'
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 0.5053706
